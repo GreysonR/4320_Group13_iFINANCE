@@ -81,7 +81,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   :root {
-    scroll-behavior: smooth;
+	scroll-behavior: smooth;
   }
 }
 
@@ -118,7 +118,7 @@ h1 {
 }
 @media (min-width: 1200px) {
   h1 {
-    font-size: 2.5rem;
+	font-size: 2.5rem;
   }
 }
 
@@ -127,7 +127,7 @@ h2 {
 }
 @media (min-width: 1200px) {
   h2 {
-    font-size: 2rem;
+	font-size: 2rem;
   }
 }
 
@@ -136,7 +136,7 @@ h3 {
 }
 @media (min-width: 1200px) {
   h3 {
-    font-size: 1.75rem;
+	font-size: 1.75rem;
   }
 }
 
@@ -145,7 +145,7 @@ h4 {
 }
 @media (min-width: 1200px) {
   h4 {
-    font-size: 1.5rem;
+	font-size: 1.5rem;
   }
 }
 
@@ -412,7 +412,7 @@ legend {
 }
 @media (min-width: 1200px) {
   legend {
-    font-size: 1.5rem;
+	font-size: 1.5rem;
   }
 }
 legend + * {
